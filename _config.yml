@@ -4,10 +4,11 @@ repository: cvtzv/yg.kdev.world
 plugins:
   - jekyll-remote-theme
 color_scheme: dark
+
 nav:
-     - title: Главная
-       url: /
-     - title: Команды
-       url: /commands.html
-     - title: FAQ
-       url: /faq.md
+  - title: YamiGuard Wiki
+    url: /
+  - title: Команды
+    url: /commands.html
+  - title: FAQ
+    url: /faq.md
