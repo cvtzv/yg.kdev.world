@@ -5,3 +5,8 @@ plugins:
   - jekyll-remote-theme
 color_scheme: dark
 footer_content: false
+footer:
+  content: false
+  custom: true
+sass:
+  sass_dir: _sass
