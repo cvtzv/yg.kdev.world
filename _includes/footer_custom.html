@@ -3,10 +3,18 @@
 </footer>
 
 <script>
-  document.addEventListener('DOMContentLoaded', function() {
+  function removeSidebarFooter() {
     const sidebarFooter = document.querySelector('nav#site-nav.site-nav footer.site-footer');
     if (sidebarFooter) {
       sidebarFooter.remove();
     }
+  }
+
+  document.addEventListener('DOMContentLoaded', removeSidebarFooter);
+
+  const observer = new MutationObserver((mutations) => {
+    removeSidebarFooter();
   });
+
+  observer.observe(document.body, { childList: true, subtree: true });
 </script>
