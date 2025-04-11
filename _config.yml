@@ -4,4 +4,5 @@ repository: cvtzv/yg.kdev.world
 plugins:
   - jekyll-remote-theme
 color_scheme: dark
+enable_color_scheme_toggle: true
 footer_content: false
