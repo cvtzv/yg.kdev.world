@@ -1,3 +1,9 @@
-footer.site-footer .footer-attribution {
+@import "just-the-docs";
+
+nav.site-nav footer.site-footer {
+  display: none !important;
+}
+
+.site-footer .footer-attribution {
   display: none !important;
 }
