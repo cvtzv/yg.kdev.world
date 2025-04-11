@@ -11,3 +11,4 @@ footer:
   has_attribution: false
 sass:
   sass_dir: _sass
+nav: true
