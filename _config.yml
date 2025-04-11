@@ -9,7 +9,7 @@ aux_links: {}
 nav_external_links: [] 
 
 nav:
-  - title: YamiGuard Wiki
+  - title: Главняа
     url: /
   - title: Команды
     url: /commands.md
