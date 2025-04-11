@@ -1,8 +1,7 @@
 title: YamiGuard Wiki
-remote_theme: just-the-docs/just-the-docs
+remote_theme: just-the-docs/just-the-docs@v0.8.2
 repository: cvtzv/yg.kdev.world
 plugins:
   - jekyll-remote-theme
 color_scheme: dark
-enable_color_scheme_toggle: true
 footer_content: false
