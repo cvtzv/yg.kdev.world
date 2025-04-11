@@ -7,6 +7,7 @@ color_scheme: dark
 footer_content: false
 footer:
   content: false
-  custom: true
+  has_social: false
+  has_attribution: false
 sass:
   sass_dir: _sass
