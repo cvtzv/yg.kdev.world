@@ -5,6 +5,9 @@ plugins:
   - jekyll-remote-theme
 color_scheme: dark
 
+aux_links: {} 
+nav_external_links: [] 
+
 nav:
   - title: YamiGuard Wiki
     url: /
