@@ -4,11 +4,10 @@ repository: cvtzv/yg.kdev.world
 plugins:
   - jekyll-remote-theme
 color_scheme: dark
-footer_content: false
-footer:
-  content: false
-  has_social: false
-  has_attribution: false
-sass:
-  sass_dir: _sass
-nav: true
+nav:
+     - title: Главная
+       url: /
+     - title: Команды
+       url: /commands.html
+     - title: FAQ
+       url: /faq.md
