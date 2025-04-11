@@ -1,13 +1,13 @@
 @import "just-the-docs";
 
-nav.site-nav footer.site-footer {
+nav#site-nav.site-nav footer.site-footer {
   display: none !important;
 }
 
-nav.site-nav footer.site-footer a[href*="just-the-docs"] {
+nav#site-nav.site-nav footer.site-footer a[href*="just-the-docs"] {
   display: none !important;
 }
 
-.site-footer .footer-attribution {
+.site-nav .site-footer {
   display: none !important;
 }
