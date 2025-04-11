@@ -1,3 +1,12 @@
 <footer class="site-footer">
   <p>© 2025 YamiGuard Wiki</p>
 </footer>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const sidebarFooter = document.querySelector('nav#site-nav.site-nav footer.site-footer');
+    if (sidebarFooter) {
+      sidebarFooter.remove();
+    }
+  });
+</script>
