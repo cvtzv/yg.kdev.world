@@ -1,4 +1,5 @@
 title: YamiGuard Wiki
 remote_theme: just-the-docs/just-the-docs
+repository: cvtzv/yg.kdev.world
 plugins:
   - jekyll-remote-theme
