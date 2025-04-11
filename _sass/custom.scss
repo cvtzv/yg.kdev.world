@@ -4,6 +4,10 @@ nav.site-nav footer.site-footer {
   display: none !important;
 }
 
+nav.site-nav footer.site-footer a[href*="just-the-docs"] {
+  display: none !important;
+}
+
 .site-footer .footer-attribution {
   display: none !important;
 }
