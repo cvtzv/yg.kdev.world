@@ -12,6 +12,10 @@ nav:
   - title: Главная
     url: /
   - title: Команды
-    url: /commands.md
+    url: /commands.md/
+  - title: Обновления [NEW]
+    url: /updates.md/
   - title: FAQ
-    url: /faq.md
+    url: /faq.md/
+  - title: Настройка чата
+    url: /settings.md/
